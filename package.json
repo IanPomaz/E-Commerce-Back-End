@@ -1,5 +1,4 @@
 {
-  "name": "module-13-challenge-orm",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -8,10 +7,6 @@
     "start": "node server.js",
     "watch": "nodemon server.js",
     "seed": "node seeds/index.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git@work.github.com:coding-boot-camp/module-13-challenge-orm.git"
   },
   "keywords": [],
   "author": "",
@@ -24,5 +19,14 @@
     "express": "^4.17.1",
     "mysql2": "^2.1.0",
     "sequelize": "^5.21.7"
-  }
+  },
+  "name": "e-commerce-back-end",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IanPomaz/E-Commerce-Back-End.git"
+  },
+  "bugs": {
+    "url": "https://github.com/IanPomaz/E-Commerce-Back-End/issues"
+  },
+  "homepage": "https://github.com/IanPomaz/E-Commerce-Back-End#readme"
 }
